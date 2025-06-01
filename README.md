@@ -1,4 +1,7 @@
 **Predicción de Incumplimiento de Pago de Tarjeta de Crédito**
+
+Descripcion :Objetivo, Predecir si una solicitud de crédito debe ser aprobada según variables financieras del solicitante.
+
 Metodología: Pasos para realizar un analicis predictivo (EDA, preprocesamiento, modelado, evaluación). Modelos Utilizados: Modelo prediccion 
 
 Conclusiones e Ideas Futuras:El modelo de Árbol de Decisión permite predecir con cierta precisión si una solicitud de crédito será aprobada.
